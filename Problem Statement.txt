@@ -1,0 +1,50 @@
+Project Title: Profit and Loss Statement Financial Analysis
+
+Overview
+
+As part of our ongoing efforts to enhance our financial oversight and performance evaluation, we are initiating a project focused on analyzing the Profit and Loss (P&L) statements across our six branches, in South-South Nigeria, over the four-year period from 2020 to 2023. This analysis will provide valuable insights into our financial activities and help inform strategic decisions moving forward.
+
+Objective
+
+You will analyze P&L data to understand revenue, expenses, and overall profitability across our branches. By the end of this project, we expect to have a clear picture of each branch's financial health and actionable insights to improve performance.
+
+Dataset Structure
+
+The dataset you will be working with includes the following columns:
+
+Date: The date of the financial transaction.
+Branch: The name of the branch where the transaction occurred.
+Account Category: The category of the account (e.g., Revenue, Expense).
+Account Name: The specific account associated with the transaction (e.g., Salaries, Loan Income).
+Amount (NGN): The monetary amount of the transaction, in Nigerian Naira.
+Use the link to download the dataset: https://drive.google.com/file/d/1GeZDLQB0unB3PKKODbyt8k74K2p5YVjr/view?usp=sharing 
+
+Project Tasks
+
+Familiarization: Review the dataset to understand its structure and the types of financial data available.
+Data Cleaning: Identify and address any data entries. Ensure all financial figures are formatted correctly (in NGN).
+Data Analysis: Categorize transactions into revenues and expenses based on the Account Category. Calculate total revenue, total expenses, and net profit for each branch over the years. Determine the percentage changes in revenue and expenses year-over-year. Calculate the profit margin for each branch.
+Visualization: Create charts and graphs to illustrate trends in revenue, expenses, and net profit for each branch over the four-year period. Use bar charts for comparison between branches.
+Insights and Recommendations: Document your insights and recommendations based on your analysis. Create a dashboard to visually represent your findings.
+Submission: Post your analysis and dashboard on LinkedIn, tagging me at Etukanietie’s LinkedIn. Ensure that you submit your work by December 15th.
+
+Special Incentive
+
+Those who submit the correct analysis before the deadline will be invited to attend my next exclusive financial analysis masterclass for free. This is a fantastic opportunity to enhance your skills and gain further insights into financial analysis.
+
+Deliverables
+
+A detailed report that includes: An overview of the data analysis process. Visualizations of key financial metrics. Insights and recommendations based on your findings.
+A dashboard summarizing the project outcomes for our team discussion.
+
+Conclusion
+
+This project is an excellent opportunity for you to apply your data analytics skills in a practical setting while contributing to our financial analysis efforts. By completing this project, you will help the company understand their financial performance better and identify areas for improvement. If you have any questions or need further clarification, please feel free to reach out.
+
+Best regards,
+
+ 
+
+Anietie Etuk
+
+The Data Coach
